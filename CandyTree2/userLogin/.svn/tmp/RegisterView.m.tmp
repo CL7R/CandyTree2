@@ -1,0 +1,91 @@
+//
+//  RegisterView.m
+//  CandyTree2
+//
+//  Created by CL7RNEC on 13-5-13.
+//  Copyright (c) 2013年 CL7RNEC. All rights reserved.
+//
+
+#import "RegisterView.h"
+#import "userInfoManager.h"
+
+@implementation RegisterView
+
+- (id)initWithFrame:(CGRect)frame
+{
+    self = [super initWithFrame:frame];
+    if (self) {
+        // Initialization code
+        [self initView:frame];
+    }
+    return self;
+}
+
+/*
+// Only override drawRect: if you perform custom drawing.
+// An empty implementation adversely affects performance during animation.
+- (void)drawRect:(CGRect)rect
+{
+    // Drawing code
+}
+*/
+#pragma mark - init
+-(void)initView:(CGRect)frame{
+    //邮箱
+    _texEmail=[[UITextField alloc]initWithFrame:CGRectMake(100, 100, 200, 50)];
+    _texEmail.tag=TAG_EMAIL;
+    _texEmail.borderStyle = UITextBorderStyleRoundedRect;
+    _texEmail.returnKeyType=UIReturnKeyDone;
+    _texEmail.keyboardType=UIKeyboardTypeEmailAddress;
+    _texEmail.contentVerticalAlignment = UIControlContentVerticalAlignmentCenter;
+    [self addSubview:_texEmail];
+    //密码
+    _texPasswd=[[UITextField alloc]initWithFrame:CGRectMake(100, 170, 200, 50)];
+    _texPasswd.tag=TAG_PASSWD;
+    _texPasswd.borderStyle = UITextBorderStyleRoundedRect;
+    _texPasswd.returnKeyType=UIReturnKeyDone;
+    _texPasswd.contentVerticalAlignment = UIControlContentVerticalAlignmentCenter;
+    [self addSubview:_texPasswd];
+    //重输密码
+    _texPasswdRe=[[UITextField alloc]initWithFrame:CGRectMake(100, 240, 200, 50)];
+    _texPasswdRe.tag=TAG_PASSWDRE;
+    _texPasswdRe.borderStyle = UITextBorderStyleRoundedRect;
+    _texPasswdRe.returnKeyType=UIReturnKeyDone;
+    _texPasswdRe.contentVerticalAlignment = UIControlContentVerticalAlignmentCenter;
+    [self addSubview:_texPasswdRe];
+    //邀请码
+    _texInvite=[[UITextField alloc]initWithFrame:CGRectMake(100, 310, 200, 50)];
+    _texInvite.tag=TAG_INVITE;
+    _texInvite.borderStyle = UITextBorderStyleRoundedRect;
+    _texInvite.returnKeyType=UIReturnKeyDone;
+    _texInvite.contentVerticalAlignment = UIControlContentVerticalAlignmentCenter;
+    [self addSubview:_texInvite];
+    //邀请码开关
+    _swiInvite=[[UISwitch alloc]initWithFrame:CGRectMake(320, 310, 80, 50)];
+    [self addSubview:_swiInvite];
+    //注册
+    _btnRegister=[UIButton buttonWithType:UIButtonTypeCustom];
+    [_btnRegister setFrame:CGRectMake(100, 380, 100, 50)];
+    [_btnRegister setTitle:NSLocalizedString(@"注册", nil) forState:UIControlStateNormal];
+//    _btnRegister.backgroundColor = [UIColor redColor];
+//    [_btnRegister addTarget:self action:@selector(loginTest:) forControlEvents:UIControlEventTouchUpInside];
+    [self addSubview:_btnRegister];
+    
+    //切换到登陆页面
+    _btnLoginview=[UIButton buttonWithType:UIButtonTypeCustom];
+    [_btnLoginview setFrame:CGRectMake(100, 450, 100, 50)];
+    [_btnLoginview setTitle:NSLocalizedString(@"立即登录", nil) forState:UIControlStateNormal];
+    [self addSubview:_btnLoginview];
+    //立即体验
+    _btnExperience=[UIButton buttonWithType:UIButtonTypeCustom];
+    [_btnExperience setFrame:CGRectMake(100,520, 100, 50)];
+    [_btnExperience setTitle:NSLocalizedString(@"立即体验", nil) forState:UIControlStateNormal];
+    [self addSubview:_btnExperience];
+}
+
+//-(void)loginTest:(id)sender
+//{
+//    userInfoManager *userManager = [userInfoManager shareInstance];
+//    [userManager loginEmail:@"xxxx@emlo.com" AndPassword:@"asdfasdf"];
+//}
+@end

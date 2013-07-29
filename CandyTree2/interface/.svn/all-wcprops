@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/candyTree/!svn/ver/222/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface
+END
+AppInitManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/candyTree/!svn/ver/173/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/AppInitManager.h
+END
+BookStoreManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/candyTree/!svn/ver/221/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/BookStoreManager.h
+END
+ClassAuxiliaryInfoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassAuxiliaryInfoManager.h
+END
+AppInitManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/candyTree/!svn/ver/209/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/AppInitManager.m
+END
+BookStoreManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/candyTree/!svn/ver/221/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/BookStoreManager.m
+END
+ClassAuxiliaryInfoManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/212/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassAuxiliaryInfoManager.m
+END
+BackgroundManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/candyTree/!svn/ver/177/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/BackgroundManager.h
+END
+BackgroundManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/candyTree/!svn/ver/209/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/BackgroundManager.m
+END
+ImageDownloadQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/177/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ImageDownloadQueue.h
+END
+FrontCoverManger.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/candyTree/!svn/ver/206/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/FrontCoverManger.h
+END
+JSONHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/212/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/JSONHttpRequest.h
+END
+ImageDownloadQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/188/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ImageDownloadQueue.m
+END
+UserInfoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/212/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/UserInfoManager.h
+END
+FrontCoverManger.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/candyTree/!svn/ver/218/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/FrontCoverManger.m
+END
+DownlaodProgressView.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/DownlaodProgressView.h
+END
+JSONHttpRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/212/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/JSONHttpRequest.m
+END
+UserInfoManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/209/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/UserInfoManager.m
+END
+UserQAManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/candyTree/!svn/ver/222/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/UserQAManager.h
+END
+DownlaodProgressView.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/DownlaodProgressView.m
+END
+ClassSummeryInfoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/candyTree/!svn/ver/218/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassSummeryInfoManager.h
+END
+InterfacePublic.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/InterfacePublic.h
+END
+UserQAManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/candyTree/!svn/ver/222/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/UserQAManager.m
+END
+ClassDownloadQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassDownloadQueue.h
+END
+ClassSummeryInfoManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/candyTree/!svn/ver/218/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassSummeryInfoManager.m
+END
+ClassKeepManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/candyTree/!svn/ver/217/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassKeepManager.h
+END
+UserGrowingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/221/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/UserGrowingManager.h
+END
+ClassDownloadQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassDownloadQueue.m
+END
+ClassKeepManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/candyTree/!svn/ver/221/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassKeepManager.m
+END
+ServerErrorCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ServerErrorCode.h
+END
+UserGrowingManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/221/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/UserGrowingManager.m
+END
+ServerErrorCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/207/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ServerErrorCode.m
+END
+ClassCommentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/candyTree/!svn/ver/213/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassCommentManager.h
+END
+ClassCommentManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/candyTree/!svn/ver/213/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/interface/ClassCommentManager.m
+END

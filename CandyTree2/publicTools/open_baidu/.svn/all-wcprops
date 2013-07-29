@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/candyTree/!svn/ver/201/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu
+END
+BMKShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKShape.h
+END
+BMKCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKCircle.h
+END
+UIDevice+IdentifierAddition.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/candyTree/!svn/ver/201/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/UIDevice+IdentifierAddition.m
+END
+BMKMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKMultiPoint.h
+END
+BMKSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKSearch.h
+END
+BMKMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKMapView.h
+END
+NSString+MD5Addition.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/candyTree/!svn/ver/201/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/NSString+MD5Addition.h
+END
+BMKOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKOverlayView.h
+END
+NSString+MD5Addition.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/candyTree/!svn/ver/201/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/NSString+MD5Addition.m
+END
+BMKOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKOverlay.h
+END
+BMKPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPolygonView.h
+END
+BMKOfflineMapType.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKOfflineMapType.h
+END
+BMKPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPointAnnotation.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKVersion.h
+END
+BMKPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPolylineView.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKRouteSearchType.h
+END
+BMKPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPolygon.h
+END
+BMKOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKOverlayPathView.h
+END
+BMKPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPolyline.h
+END
+BMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMapKit.h
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKTypes.h
+END
+BMKAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKAnnotationView.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKUserLocation.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKGeocodeType.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKMapManager.h
+END
+BMKAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKAnnotation.h
+END
+BMKPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPinAnnotationView.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKPoiSearchType.h
+END
+BMKOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKOfflineMap.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKGeometry.h
+END
+BMKCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/BMKCircleView.h
+END
+UIDevice+IdentifierAddition.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/candyTree/!svn/ver/201/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_baidu/UIDevice+IdentifierAddition.h
+END

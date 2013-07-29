@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq
+END
+QSyncHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QSyncHttp.h
+END
+QAsyncHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QAsyncHttp.h
+END
+NSURL+QAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/NSURL+QAdditions.h
+END
+QWeiboRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QWeiboRequest.h
+END
+QOauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QOauth.h
+END
+QSyncHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QSyncHttp.m
+END
+QAsyncHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QAsyncHttp.m
+END
+NSURL+QAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/NSURL+QAdditions.m
+END
+QWeiboRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QWeiboRequest.m
+END
+QOauth.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QOauth.m
+END
+QMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QMutableURLRequest.h
+END
+QOauthKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QOauthKey.h
+END
+NSString+QEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/NSString+QEncoding.h
+END
+QMutableURLRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QMutableURLRequest.m
+END
+NSData+QBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/NSData+QBase64.h
+END
+QOauthKey.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/QOauthKey.m
+END
+NSString+QEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/NSString+QEncoding.m
+END
+NSData+QBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/candyTree/!svn/ver/85/%E5%89%8D%E5%8F%B0%E4%BB%A3%E7%A0%81/candyTree%E4%BB%A3%E7%A0%81/CandyTree2/CandyTree2/publicTools/open_qq/NSData+QBase64.m
+END
